@@ -32,33 +32,6 @@
 
 ---
 
-## 🛠️ 我們的技術堆疊 (部分) (Our Tech Stack - Highlights)
-
-我們致力於打造一個現代化且高效的技術環境，以下是我們技術棧中與 Python 工程師息息相關的部分：
-
-*   **程式語言 (Programming Languages):** **Python (主力)**, JavaScript
-*   **Python 框架與函式庫 (Python Frameworks & Libraries):** Django (主力), Flask, FastAPI, Pandas, Airflow 等。
-
-我們鼓勵團隊成員探索與引入新技術，共同提升開發效率與產品品質。
-(We encourage team members to explore and introduce new technologies to collectively enhance development efficiency and product quality.)
-
----
-
-## 🐍 我們在尋找的 Python 工程師 (The Python Engineers We're Looking For)
-
-如果您具備以下特質與技能，並且對旅遊科技充滿熱情，我們誠摯邀請您加入山富的行列：
-
-*   **扎實的 Python 基礎：** 熟悉 Python 語法、標準庫以及物件導向程式設計。
-*   **後端開發經驗：** 熟悉至少一種 Python Web 框架 (Django, Flask, FastAPI 等)，並有 API 設計與開發經驗。
-*   **數據處理與分析能力：** (加分項) 熟悉 Pandas 等數據科學工具，對機器學習或 AI 應用有興趣或經驗。
-*   **資料庫操作：** 熟悉 SQL，並有使用 ORM 的經驗。
-*   **版本控制：** 熟練使用 Git 進行版本控制與協同開發。
-*   **問題解決能力：** 樂於分析問題、找出解決方案，並持續優化。
-*   **團隊合作精神：** 良好的溝通能力，能與跨部門團隊有效協作。
-*   **學習熱忱：** 對新技術抱有好奇心，並願意持續學習成長。
-
----
-
 ## ✨ 為何加入山富技術團隊？ (Why Join Richmond's Tech Team?)
 
 *   **打造有影響力的產品 (Build Impactful Products):** 您的程式碼將直接影響每年數百萬旅客的出行體驗，以及上千家企業的差旅管理。
@@ -66,14 +39,3 @@
 *   **專業成長機會 (Professional Growth Opportunities):** 與經驗豐富的團隊成員一同成長，接觸多元化的專案與挑戰。
 *   **擁抱創新文化 (Embrace an Innovative Culture):** 我們鼓勵提出新點子，並提供將想法付諸實踐的平台。
 *   **穩健的企業後盾 (Stable Corporate Backing):** 作為一家公開上市的公司，我們提供穩定的發展環境。
-
----
-
-## 🤝 如何貢獻與加入我們 (How to Contribute & Join Us)
-
-我們非常期待對旅遊科技有熱忱的 Python 工程師加入我們的團隊，共同打造更美好的旅行未來！
-
-*   **探索職涯機會 (Explore Career Opportunities):** 請關注我們的 [人才招募頁面](https://www.travel4u.com.tw/hiring/) 以獲取最新的 Python 工程師職缺資訊。
-
-雖然我們目前主要的專案以內部開發為主，但我們重視開源精神，並鼓勵團隊成員學習與貢獻開源社群。
-(While our main projects are currently developed internally, we value the open-source spirit and encourage our team members to learn from and contribute to the open-source community.)
